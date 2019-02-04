@@ -1,0 +1,24 @@
+body    {
+    /* font-family: 'Major Mono Display', monospace; */
+    min-height: 75rem;
+  padding-top: 4.5rem;
+}
+
+h1{
+    border-style : solid;
+    padding : 1em;
+    background-color: #006947;
+    color: white;
+}
+
+.important {
+    color: palegoldenrod
+}
+
+#myname {
+    color: violet
+}
+
+#current {
+    background-color: yellow
+}
